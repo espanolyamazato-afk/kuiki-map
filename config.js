@@ -6,7 +6,7 @@ window.KUIKI_CONFIG = {
   // ① GAS の「ウェブアプリのURL」を '' の中に貼り付けます。空のままだと試作モード（その端末だけに保存）で動きます。
   //    Pegue entre las comillas la URL de la aplicación web de Apps Script. Vacío = modo de prueba (solo en ese teléfono).
   //    例 / Ejemplo: apiUrl: 'https://script.google.com/macros/s/xxxxxxxx/exec'
-  apiUrl: '',
+  apiUrl: 'https://script.google.com/macros/s/AKfycbxNz32TZ5y21MJqtpPOEu1bk_DpCJC6HAxk9pbdQP4kce15G1pfn8v8N2JdyUCIcNLaVQ/exec',
 
   // ② はじめに表示する言語：'ja'（日本語）または 'es'（スペイン語）。各自が設定（歯車）で切りかえられます。
   //    Idioma inicial: 'ja' (japonés) o 'es' (español). Cada persona puede cambiarlo en Ajustes (⚙).
